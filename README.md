@@ -4,4 +4,4 @@ ergodox-layout
 Graphical configurator
 ----------------------
 
-http://configure.ergodox-ez.com/keyboard_layouts/qwopvb
+http://configure.ergodox-ez.com/keyboard_layouts/qexwwb
