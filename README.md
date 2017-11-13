@@ -4,4 +4,4 @@ ergodox-layout
 Graphical configurator
 ----------------------
 
-http://configure.ergodox-ez.com/keyboard_layouts/qonabl/
+http://configure.ergodox-ez.com/keyboard_layouts/kermom/
